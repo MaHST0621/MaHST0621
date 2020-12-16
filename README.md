@@ -6,11 +6,11 @@
 - 📫 1186217640@qq.com
 - ⚡ 顺利毕业，回到杭州！
 
+[![MaHST's github stats](https://github-readme-stats.vercel.app/api?username=MaHST0621&hide=stars&show_icons=true&theme=calm "![MaHST's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaHST0621&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![MaHST's github stats](https://github-readme-stats.vercel.app/api?username=MaHST0621&hide=stars&show_icons=true&theme=calm "![MaHST's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
