@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
 ### 👋 这是一个咸鱼的仓库，还喜欢异想天开
 - 🔭 来自南开网安学院的咸鱼
 - 🌱 或许 C++ 和 Python才是我的菜
