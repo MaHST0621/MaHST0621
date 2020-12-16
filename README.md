@@ -1,4 +1,4 @@
-[![MaHST's github stats](https://github-readme-stats.vercel.app/api?username=MaHST0621&hide=stars&show_icons=true&theme=radical "![MaHST's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![MaHST's github stats](https://github-readme-stats.vercel.app/api?username=MaHST0621&hide=stars&show_icons=true&theme=calm "![MaHST's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👋 这是一个咸鱼的仓库，还喜欢异想天开
 - 🔭 来自南开网安学院的咸鱼
