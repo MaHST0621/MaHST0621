@@ -4,7 +4,7 @@
 - 👯 <- 图标在暗示我有女朋友还是需要一个？
 - 🤔 头脑有点笨，想的有点多
 - 📫 1186217640@qq.com
-- ⚡ 顺利毕业，回到杭州！
+- ⚡ 顺利毕业！
 
 [![MaHST's github stats](https://github-readme-stats.vercel.app/api?username=MaHST0621&hide=stars&show_icons=true&theme=calm "![MaHST's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
